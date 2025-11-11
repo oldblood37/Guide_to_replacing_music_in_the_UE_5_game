@@ -18,6 +18,7 @@
 | Tool | Purpose | Link |
 |------|---------|------|
 | **FModel** | Viewing and extracting game files | [Download](https://fmodel.app/) |
+| **Mapping** | It is required for reading files .uasset | [Download](https://github.com/oldblood37/MappingForRVThereYet) |
 | **Binkadec** | .binka audio decoder | [GitHub](https://github.com/Keisawaakira/BinkadecWithWavHeader/releases/tag/1.0.2) |
 | **Unreal Engine** | Creating new audio files | [Official Site](https://www.unrealengine.com/) |
 | **unrealpak** | Packaging files to .pak | [GitHub](https://github.com/xamarth/unrealpak) |
