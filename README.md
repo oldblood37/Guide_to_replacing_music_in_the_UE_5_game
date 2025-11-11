@@ -20,10 +20,10 @@
 | **FModel** | Viewing and extracting game files | [Download](https://fmodel.app/) |
 | **Mapping for RV** | It is required for reading files .uasset | [Download](https://github.com/oldblood37/MappingForRVThereYet) |
 | **Mapping Guide** | It is required for reading files .uasset | [Guide](https://github.com/Dmgvol/UE_Modding/blob/main/TheBasics/Extractingusmap.md) |
-| **Binkadec** | .binka audio decoder | [Download](https://github.com/Keisawaakira/BinkadecWithWavHeader/releases/tag/1.0.2) |
+| **Binkadec** | .binka audio decoder | [Download for Windows](https://github.com/Keisawaakira/BinkadecWithWavHeader/releases/download/1.0.2/binkadec.zip) |
 | **Unreal Engine** | Creating new audio files | [Official Site](https://www.unrealengine.com/) |
-| **unrealpak** | Packaging files to .pak | [Download](https://github.com/btwOreO/unrealpak/archive/main.zip) |
-| **retoc** | Creating .utoc files | [Download](https://github.com/trumank/retoc/releases) |
+| **unrealpak** | Packaging files to .pak | [Download for Windows](https://github.com/btwOreO/unrealpak/archive/main.zip) |
+| **retoc** | Creating .utoc files | [Download for Windows](https://github.com/trumank/retoc/releases/download/v0.1.4/retoc-x86_64-pc-windows-msvc.zip) |
 
 ## 🛠️ Preparation Stage
 
