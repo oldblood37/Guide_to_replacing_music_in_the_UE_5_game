@@ -74,8 +74,8 @@ Settings → General → Local Mapping File
 
 ### 2. Importing Music
 
-1. In project folder create EXACT path:Ride\Content\Ride\Audio\AudioFiles\Music\Tapes
-2. Move your .wav file to this folder
+1. In project folder create EXACT path: `Content\Ride\Audio\AudioFiles\Music\Tapes`
+2. Move your `.wav` file to this folder
 3. **File name must match** original
 4. In UE click `Import` → `Save`
 
@@ -93,14 +93,14 @@ Settings → General → Local Mapping File
 
 ### 4. File Generation
 
-Open **Command Prompt** and execute:
+Open **Command Prompt Windows** and execute:
 
 ```cmd
 "Path\To\UE5.6\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" "Path\To\Project\Ride.uproject" -run=Cook -TargetPlatform=Windows -CookDir=/Game/Ride/ -unattended 
 ```
 Generated files will appear at path:
 ```cmd
-Saved\Cooked\Windows\Ride\Content\Ride\Audio\AudioFiles\Music\Tapes
+Path\To\Project\Saved\Cooked\Windows\Ride\Content\Ride\Audio\AudioFiles\Music\Tapes
 ```
 Save: .uasset, .uexp, .ubulk
 
@@ -123,6 +123,7 @@ Rvmodmusic_P/
 - Download unrealpak
 - Drag folder Rvmodmusic_P to `UnrealPak-With-Compression.bat`
 - Rvmodmusic_P.pak will be created automatically
+![2025-11-11 11-09-47](https://github.com/user-attachments/assets/b48747f4-9538-4e23-8c3c-0baaaaeed230)
 
 ### 3. Creating .utoc File
 ```cmd
